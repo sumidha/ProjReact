@@ -48,7 +48,7 @@ function App(props) {
         <Appchild name="parth" />
         <Appchild name="elishs" />
         <Appchild name="ayansh" />
-        <h3> END RENDERING MULTIPLE COMPONET</h3> 
+        <h3> END RENDERING MULTIPLEE COMPONET</h3> 
         <FunctionClick name="Rahul from swindon"/>
         <UserGreeting/>
         <NameList/>  
