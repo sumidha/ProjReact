@@ -3,9 +3,9 @@ import React from "react";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Stylesheet from "./Stylesheet";
-// import Nav from "./Router/Nav";
-// import Shop from "./Router/Shop";
-// import About from "./Router/About";
+import Nav from "./Router/Nav";
+import Shop from "./Router/Shop";
+import About from "./Router/About";
 // import Home from "./Router/Home";
 // import ItemDetails from "./Router/ItemDetails";
 //import CallAPI from "./CallAPI";
@@ -63,20 +63,20 @@ function App(props) {
         <PostForm /> 
         <FragementDemo /> 
         <Table /> 
-        <ClassCounter /> 
-        <SetState /> */}
+        <ClassCounter /> */}
+        {/* <SetState />  */}
         {/* <HooksBefore name="Rahul Gandhi" /> */}
         {/* <UseStateHook /> */}
         {/* <UseEffectHook /> */}
         {/* <StyleSheet /> */}
 
-        {/* <Nav />
+        <Nav />
         <switch>
-          <Route path="/" exact component={SetState} />
+          {/* <Route path="/" exact component={SetState} /> */}
           <Route path="/About" component={About} />
           <Route path="/Shop" exact component={Shop} />
-          <Route path="/Shop/:id" component={ItemDetails} />
-        </switch> */}
+          {/* <Route path="/Shop/:id" component={ItemDetails} /> */}
+        </switch>
       </div>
     </Router>
   );
