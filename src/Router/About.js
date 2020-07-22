@@ -8,7 +8,7 @@ class About extends Component {
     render() { 
         return (
             
-            <h1> this is about page</h1>
+            <h1> TechPledge Consulting Training and Consulting</h1>
          );
     }
 }
