@@ -8,7 +8,7 @@ class About extends Component {
     render() { 
         return (
             
-            <h1>raghavender application </h1>
+            <h1>developed by subramanian </h1>
          );
     }
 }
