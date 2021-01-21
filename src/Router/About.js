@@ -8,7 +8,7 @@ class About extends Component {
     render() { 
         return (
             
-            <h1>developed by Madhuri </h1>
+            <h1>developed by Prateek Shrivastava </h1>
          );
     }
 }
