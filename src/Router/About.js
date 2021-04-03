@@ -8,7 +8,7 @@ class About extends Component {
     render() { 
         return (
             
-            <h1>developed by Priyanka and all team</h1>
+            <h1>developed by Kunal and Avirup</h1>
          );
     }
 }
