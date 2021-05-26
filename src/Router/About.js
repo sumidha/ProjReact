@@ -8,7 +8,7 @@ class About extends Component {
     render() { 
         return (
             
-            <h1>developed by Kunal and Avirup</h1>
+            <h1>Demo of React App CI/CD</h1>
          );
     }
 }
